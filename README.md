@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2019%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 13 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,5 +72,5 @@ Vue                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2359992750/2359992750/main/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2023 18:34:54 UTC
+ Last Updated on 14/12/2023 18:36:06 UTC
 <!--END_SECTION:waka-->
