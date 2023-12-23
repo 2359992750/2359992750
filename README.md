@@ -42,18 +42,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               35 mins             ████████████████░░░░░░░░░   62.29 % 
-Vue.js                   16 mins             ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-web                      57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -70,5 +68,5 @@ Vue                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2359992750/2359992750/main/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2023 18:34:27 UTC
+ Last Updated on 23/12/2023 18:34:17 UTC
 <!--END_SECTION:waka-->
