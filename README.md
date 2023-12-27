@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -68,5 +68,5 @@ Vue                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2359992750/2359992750/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2023 18:34:06 UTC
+ Last Updated on 27/12/2023 18:33:59 UTC
 <!--END_SECTION:waka-->
